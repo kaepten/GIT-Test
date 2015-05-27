@@ -16,7 +16,7 @@ way that you want.
 * Twitter: [@h5bp](https://twitter.com/h5bp)
 
 
-## Quick start TEST TEST
+## Quick start
 
 Choose one of the following options:
 
